@@ -20,8 +20,8 @@ Hey there! I'm an enthusiastic AI Engineering student My Name is Muddasir Haider
 
 ## 📫 Contact Me:
 - **Email**: muddasirhaider048@gmail.com
-- **Instagram**: 
-- **Github**: 
+- **Instagram**: [Muddasir Haider Khan](https://www.instagram.com/_mudda5ir/)
+- **Github**: [Muddasir Haider Khan](https://github.com/muddasirhaiderkhan)
 
 ## ✨ My Mission:
 As AI evolves, I'm on a mission to fuse my artistic flair with AI capabilities, transforming colors and creativity into functional, cutting-edge projects. I believe in the synergy of art and technology to bring innovative solutions to life.
