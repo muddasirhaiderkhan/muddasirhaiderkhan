@@ -3,7 +3,7 @@
 
 ![Developer Banner](images/developer_banner.png)
 
-Hey there! I'm an enthusiastic AI Engineering student at the beginning of an exciting journey into the world of artificial intelligence. With a rich IT background and a professional career as a graphic designer, I'm passionate about blending creativity with technology.
+Hey there! I'm an enthusiastic AI Engineering student My Name is Muddasir Haider Khan. I Have Recently Passed out From School, at the beginning of an exciting journey into the world of artificial intelligence. With a rich IT background and a professional career as a graphic designer, I'm passionate about blending creativity with technology.
 
 ## 🛠️ Tech Arsenal:
 - **AI Engineering:** Diving deep into AI, eager to innovate and create.
