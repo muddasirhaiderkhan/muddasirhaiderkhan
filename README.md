@@ -14,7 +14,6 @@ Hey there! I'm an enthusiastic AI Engineering student at the beginning of an exc
 ## 🎨 Design Mastery:
 - **Adobe Illustrator**: Crafting vector magic.
 - **Adobe Photoshop**: Turning ideas into digital masterpieces.
-- **CorelDRAW**: Bringing creativity to life.
 
 ![Design Tools](images/design_tools.png)
 
