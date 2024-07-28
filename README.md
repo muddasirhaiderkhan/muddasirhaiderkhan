@@ -26,5 +26,3 @@ As AI evolves, I'm on a mission to fuse my artistic flair with AI capabilities, 
 I might not have any repositories yet, but exciting projects are on the horizon! I'll be sharing my journey, projects, and learnings as I delve deeper into AI and explore new frontiers.
 
 Let's connect and embark on this thrilling adventure in the AI world together!
-
-![Connect](images/connect.png)
