@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 🌟 Welcome to My GitHub! 🌟
+# 🌟 Welcome to a Journey Of AI-Engineering ! 👨‍💻
 
 ![Developer Banner](images/developer_banner.png)
 
