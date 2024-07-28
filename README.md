@@ -8,6 +8,7 @@ Hey there! I'm an enthusiastic AI Engineering student My Name is Muddasir Haider
 ## 🛠️ Tech Arsenal:
 - **AI Engineering:** Diving deep into AI, eager to innovate and create.
 - **Dev Tools:** Mastering Docker, WSL, and VSCode, leveraging my IT expertise for a seamless transition into AI.
+- **Languages:** Which i have Started learning are Python
 
 ![Tech Tools](images/tech_tools.png)
 
